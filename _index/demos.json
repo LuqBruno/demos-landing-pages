@@ -1,0 +1,34 @@
+[
+  {
+    "product": "Aesthetic",
+    "demos": [
+      {
+        "client": "demo-odonto-meridiana",
+        "slug": "odonto",
+        "label": "Meridiana Odontologia",
+        "note": "Odontologia · equipe e avaliação · preset precision"
+      },
+      {
+        "client": "demo-estetica-sereno",
+        "slug": "estetica",
+        "label": "Sereno Pele & Cuidado",
+        "note": "Estética · cuidado e ambiente · preset editorial"
+      }
+    ]
+  },
+  {
+    "product": "Architecture",
+    "demos": [
+      {
+        "slug": "arquitetura",
+        "label": "Talude Arquitetura",
+        "note": "Arquitetura residencial · filme e cena de rolagem do terreno à casa · preset precise"
+      },
+      {
+        "slug": "interiores",
+        "label": "Veio Interiores & Planejados",
+        "note": "Interiores e planejados · filme, cena de rolagem e acabamentos · preset organic"
+      }
+    ]
+  }
+]
